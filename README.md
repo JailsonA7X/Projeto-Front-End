@@ -30,4 +30,4 @@ Bash
 npm run dev
 Acesse o link gerado (geralmente http://localhost:5173/).
 
-Desenvolvido por Jailson Oliveira - Março de 2026.
+Desenvolvido por Francisco Jailson de Souza Oliveira - Março de 2026.
